@@ -1,0 +1,15 @@
+C:\Users\RobertCatalano\source\repos\LPCredit\LPCredit\bin\Debug\net6.0\LPCredit.exe
+C:\Users\RobertCatalano\source\repos\LPCredit\LPCredit\bin\Debug\net6.0\LPCredit.deps.json
+C:\Users\RobertCatalano\source\repos\LPCredit\LPCredit\bin\Debug\net6.0\LPCredit.runtimeconfig.json
+C:\Users\RobertCatalano\source\repos\LPCredit\LPCredit\bin\Debug\net6.0\LPCredit.dll
+C:\Users\RobertCatalano\source\repos\LPCredit\LPCredit\bin\Debug\net6.0\LPCredit.pdb
+C:\Users\RobertCatalano\source\repos\LPCredit\LPCredit\obj\Debug\net6.0\LPCredit.csproj.AssemblyReference.cache
+C:\Users\RobertCatalano\source\repos\LPCredit\LPCredit\obj\Debug\net6.0\LPCredit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RobertCatalano\source\repos\LPCredit\LPCredit\obj\Debug\net6.0\LPCredit.AssemblyInfoInputs.cache
+C:\Users\RobertCatalano\source\repos\LPCredit\LPCredit\obj\Debug\net6.0\LPCredit.AssemblyInfo.cs
+C:\Users\RobertCatalano\source\repos\LPCredit\LPCredit\obj\Debug\net6.0\LPCredit.csproj.CoreCompileInputs.cache
+C:\Users\RobertCatalano\source\repos\LPCredit\LPCredit\obj\Debug\net6.0\LPCredit.dll
+C:\Users\RobertCatalano\source\repos\LPCredit\LPCredit\obj\Debug\net6.0\refint\LPCredit.dll
+C:\Users\RobertCatalano\source\repos\LPCredit\LPCredit\obj\Debug\net6.0\LPCredit.pdb
+C:\Users\RobertCatalano\source\repos\LPCredit\LPCredit\obj\Debug\net6.0\LPCredit.genruntimeconfig.cache
+C:\Users\RobertCatalano\source\repos\LPCredit\LPCredit\obj\Debug\net6.0\ref\LPCredit.dll
